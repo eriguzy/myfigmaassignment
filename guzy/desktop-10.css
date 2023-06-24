@@ -1,0 +1,217 @@
+.one-stop {
+  margin: 0;
+}
+.possibilities {
+  color: var(--primary-400);
+}
+.span1 {
+  color: var(--text-color-main-text);
+}
+.one-stop-four-possibilities-container {
+  position: relative;
+  line-height: 3rem;
+  display: inline-block;
+  width: 21.06rem;
+  flex-shrink: 0;
+}
+.one-stop-four-possibilities-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.active-users,
+.m {
+  position: relative;
+  line-height: 2.5rem;
+}
+.active-users {
+  font-size: var(--h4-bold-size);
+  line-height: 1.5rem;
+  font-family: var(--font-gilroy-medium);
+}
+.m-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.links-qr {
+  position: relative;
+  font-size: var(--h4-bold-size);
+  line-height: 1.5rem;
+  font-family: var(--font-gilroy-medium);
+  display: inline-block;
+  width: 7.69rem;
+  height: 3.25rem;
+  flex-shrink: 0;
+}
+.frame-parent19,
+.m-group {
+  display: flex;
+  align-items: flex-start;
+}
+.m-group {
+  height: 6.25rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.frame-parent19 {
+  flex-direction: row;
+  padding: 0 var(--padding-9xs);
+  justify-content: center;
+  gap: var(--gap-53xl);
+}
+.clicked-scanned {
+  position: relative;
+  font-size: var(--h4-bold-size);
+  line-height: 1.5rem;
+  font-family: var(--font-gilroy-medium);
+  display: inline-block;
+  width: 8.94rem;
+  height: 3.5rem;
+  flex-shrink: 0;
+}
+.frame-wrapper2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent17,
+.frame-parent18 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.frame-parent18 {
+  justify-content: flex-end;
+  gap: var(--gap-53xl);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-gilroy-semibold);
+}
+.frame-parent17 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 723px);
+  background-color: #f9fbfd;
+  padding: var(--padding-41xl) 8.75rem;
+  justify-content: center;
+  gap: 7.5rem;
+}
+.frame-child12 {
+  position: relative;
+  width: 0.31rem;
+  height: 3rem;
+}
+.why-choose-scissors-container {
+  position: relative;
+  line-height: 2rem;
+}
+.vector-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.scissors-is-the {
+  position: relative;
+  font-size: var(--h4-bold-size);
+  line-height: 1.75rem;
+  font-family: var(--font-gilroy-medium);
+  display: inline-block;
+  width: 23.13rem;
+  height: 12rem;
+  flex-shrink: 0;
+}
+.frame-parent22 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-child13 {
+  position: relative;
+  width: 3.5rem;
+  height: 3.5rem;
+}
+.url-shortening {
+  position: relative;
+  line-height: 1.75rem;
+}
+.scissor-allows-you {
+  position: relative;
+  font-size: var(--h4-bold-size);
+  line-height: 1.5rem;
+  font-family: var(--font-gilroy-medium);
+  display: inline-block;
+  width: 21.25rem;
+  height: 5rem;
+  flex-shrink: 0;
+}
+.url-shortening-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.group-parent {
+  gap: var(--gap-21xl);
+}
+.group-parent,
+.group-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.with-scissor-you {
+  position: relative;
+  font-size: var(--h4-bold-size);
+  line-height: 1.5rem;
+  font-family: var(--font-gilroy-medium);
+  display: inline-block;
+  width: 21.25rem;
+  height: 4.44rem;
+  flex-shrink: 0;
+}
+.frame-parent24 {
+  flex-direction: row;
+  gap: var(--gap-9xl);
+}
+.frame-parent21,
+.frame-parent23,
+.frame-parent24 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent23 {
+  flex-direction: column;
+  gap: var(--gap-45xl);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-gilroy-semibold);
+}
+.frame-parent21 {
+  position: absolute;
+  top: 21.75rem;
+  left: 7.5rem;
+  flex-direction: row;
+  gap: 6rem;
+}
+.desktop-101 {
+  position: relative;
+  background-color: var(--neutral-white);
+  width: 100%;
+  height: 61.38rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--h0-bold-size);
+  color: var(--text-color-main-text);
+  font-family: var(--h2-bold);
+}
